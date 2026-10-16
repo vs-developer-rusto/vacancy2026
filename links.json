@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Больничный 2026",
+    "package": "ru.svp.sickleave2026",
+    "rustore": "https://www.rustore.ru/catalog/app/ru.svp.sickleave2026",
+    "google_play": "https://play.google.com/store/apps/details?id=ru.svp.sickleave2026"
+  },
+  {
+    "name": "Аванс и ЗП 2026",
+    "package": "ru.svp.advance2026",
+    "rustore": "https://www.rustore.ru/catalog/app/ru.svp.advance2026",
+    "google_play": "https://play.google.com/store/apps/details?id=ru.svp.advance2026"
+  },
+  {
+    "name": "Копилка 2026",
+    "package": "ru.svp.moneybox2026",
+    "rustore": "https://www.rustore.ru/catalog/app/ru.svp.moneybox2026",
+    "google_play": "https://play.google.com/store/apps/details?id=ru.svp.moneybox2026"
+  }
+]
