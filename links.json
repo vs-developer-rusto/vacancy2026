@@ -1,5 +1,11 @@
 [
   {
+    "name": "Отпускные 2026",
+    "package": "ru.vs_developer.vacancy2026",
+    "rustore": "https://www.rustore.ru/catalog/app/ru.vs_developer.vacancy2026",
+    "google_play": "https://play.google.com/store/apps/details?id=ru.vs_developer.vacancy2026"
+  },
+  {
     "name": "Больничный 2026",
     "package": "ru.svp.sickleave2026",
     "rustore": "https://www.rustore.ru/catalog/app/ru.svp.sickleave2026",
