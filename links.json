@@ -22,5 +22,11 @@
     "package": "ru.svp.moneybox2026",
     "rustore": "https://www.rustore.ru/catalog/app/ru.svp.moneybox2026",
     "google_play": "https://play.google.com/store/apps/details?id=ru.svp.moneybox2026"
+  },
+  {
+    "name": "Компенсация при увольнении 2026",
+    "package": "ru.svp.dismissal2026",
+    "rustore": "https://www.rustore.ru/catalog/app/ru.svp.dismissal2026",
+    "google_play": "https://play.google.com/store/apps/details?id=ru.svp.dismissal2026"
   }
 ]
